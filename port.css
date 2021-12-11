@@ -1,0 +1,58 @@
+body{
+    font-family:  Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: black;
+}
+.icon-1{
+    color: white;
+    z-index: 1000!important;
+}
+.nav{
+    margin-left: 500px;}
+
+.nav li{
+    padding-left: 15px;
+
+}
+.navbar{ background-color: black;
+    
+    
+    
+}
+.navbar a{
+    color: white;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.bg{
+    background-color:white;
+}
+.z{
+    margin-top: 124px;
+    color: lightblue;
+}
+.z h1{
+    color:blue;
+}
+.HR{
+    color: blue;
+    margin-top: 100px;
+}
+.img-1{
+    border-radius: 80px;
+    border: solid 4px blue;
+
+
+
+}
+ .oppo p{
+     color: BLACK;
+
+}
+
+
+
